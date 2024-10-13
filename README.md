@@ -1,6 +1,6 @@
 # SLB Industrial Training and Safety Email Reminder System
 
-This project automates the process of sending reminders to employees about the expiration status of their industrial training certificates and safety instructions. It categorizes employees based on the expiration timeline and sends timely email notifications to both employees and their managers.
+This project automates the process of sending reminders to employees about the expiration status of their industrial training certificates and safety instructions. It categorizes employees based on the expiration timeline and sends timely email notifications to both employees and their managers. I created this project for an international oil and gas company, SLB. 
 
 ## Features
 
